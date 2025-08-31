@@ -4,7 +4,7 @@
  // Arizona Cardinals
   
   <channel id="Cardinals.com">
-    <display-name lang="en">Cardinals</display-name>
+    <display-name lang="en">Arizona Cardinals</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cardinals.jpeg?raw=true"/>
   </channel>
 
@@ -16,7 +16,7 @@
  // Atlanta Falcons 
   
   <channel id="Falcons.com">
-    <display-name lang="en">Falcons</display-name>
+    <display-name lang="en">Atlanta Falcons</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Falcons.jpeg?raw=true"/>
   </channel>
 
@@ -28,7 +28,7 @@
  // Baltimore Ravens
   
   <channel id="Ravens.com">
-    <display-name lang="en">Ravens</display-name>
+    <display-name lang="en">Baltimore Ravens</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Ravens.jpeg?raw=true"/>
   </channel>
 
@@ -40,7 +40,7 @@
  // Buffalo Bills
   
   <channel id="Bills.com">
-    <display-name lang="en">Bills</display-name>
+    <display-name lang="en">Buffalo Bills</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bills.jpeg?raw=true"/>
   </channel>
 
@@ -52,7 +52,7 @@
  // Carolina Panthers
   
   <channel id="Panthers.com">
-    <display-name lang="en">Panthers</display-name>
+    <display-name lang="en">Carolina Panthers</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Panthers.jpeg?raw=true"/>
   </channel>
 
@@ -64,7 +64,7 @@
  // Chicago Bears
   
   <channel id="Bears.com">
-    <display-name lang="en">Bears</display-name>
+    <display-name lang="en">Chicago Bears</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bears.jpeg?raw=true"/>
   </channel>
 
