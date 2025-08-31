@@ -10,7 +10,7 @@
 
     <programme channel="Cardinals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>
 
  // Atlanta Falcons 
@@ -22,7 +22,7 @@
 
   <programme channel="Falcons.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>
 
  // Baltimore Ravens
@@ -34,9 +34,19 @@
 
   <programme channel="Ravens.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>
 
+ // Buffalo Bills
   
+  <channel id="Bills.com">
+    <display-name lang="en">Buffalo Bills</display-name>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bills.jpeg?raw=true"/>
+  </channel>
+
+  <programme channel="Bills.com" start="20250830190000 +0000" stop="20270830200000 +0000">
+    <title lang="en">Local channels for watching NFL games</title>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
+  </programme>  
 
 </tv>
