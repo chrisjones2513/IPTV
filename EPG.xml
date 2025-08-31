@@ -5,7 +5,7 @@
   
   <channel id="Cardinals.com">
     <display-name lang="en">Arizona Cardinals</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cardinals.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cardinals.png?raw=true"/>
   </channel>
 
     <programme channel="Cardinals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -17,7 +17,7 @@
   
   <channel id="Falcons.com">
     <display-name lang="en">Atlanta Falcons</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Falcons.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Falcons.png?raw=true"/>
   </channel>
 
   <programme channel="Falcons.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -29,7 +29,7 @@
   
   <channel id="Ravens.com">
     <display-name lang="en">Baltimore Ravens</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Ravens.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Ravens.png?raw=true"/>
   </channel>
 
   <programme channel="Ravens.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -41,7 +41,7 @@
   
   <channel id="Bills.com">
     <display-name lang="en">Buffalo Bills</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bills.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bills.png?raw=true"/>
   </channel>
 
   <programme channel="Bills.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -53,7 +53,7 @@
   
   <channel id="Panthers.com">
     <display-name lang="en">Carolina Panthers</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Panthers.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Panthers.png?raw=true"/>
   </channel>
 
   <programme channel="Panthers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -65,7 +65,7 @@
   
   <channel id="Bears.com">
     <display-name lang="en">Chicago Bears</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bears.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bears.png?raw=true"/>
   </channel>
 
   <programme channel="Bears.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -77,7 +77,7 @@
   
   <channel id="Bengals.com">
     <display-name lang="en">Cincinnati Bengals</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bengals.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bengals.png?raw=true"/>
   </channel>
 
   <programme channel="Bengals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -89,7 +89,7 @@
   
   <channel id="Browns.com">
     <display-name lang="en">Cleveland Browns</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Browns.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Browns.png?raw=true"/>
   </channel>
 
   <programme channel="Browns.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -101,7 +101,7 @@
   
   <channel id="Cowboys.com">
     <display-name lang="en">Dallas Cowboys</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cowboys.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cowboys.png?raw=true"/>
   </channel>
 
   <programme channel="Cowboys.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -112,7 +112,7 @@
   
   <channel id="Broncos.com">
     <display-name lang="en">Denver Broncos</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Broncos.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Broncos.png?raw=true"/>
   </channel>
 
   <programme channel="Broncos.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -124,7 +124,7 @@
   
   <channel id="Lions.com">
     <display-name lang="en">Detroit Lions</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Lions.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Lions.png?raw=true"/>
   </channel>
 
   <programme channel="Lions.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -136,7 +136,7 @@
   
   <channel id="Packers.com">
     <display-name lang="en">Green Bay Packers</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Packers.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Packers.png?raw=true"/>
   </channel>
 
   <programme channel="Packers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -148,7 +148,7 @@
   
   <channel id="Texans.com">
     <display-name lang="en">Houston Texans</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Texans.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Texans.png?raw=true"/>
   </channel>
 
   <programme channel="Texans.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -160,7 +160,7 @@
   
   <channel id="Colts.com">
     <display-name lang="en">Indianapolis Colts</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Colts.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Colts.png?raw=true"/>
   </channel>
 
   <programme channel="Colts.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -172,7 +172,7 @@
   
   <channel id="Jaguars.com">
     <display-name lang="en">Jacksonville Jaguars</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Jaguars.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Jaguars.png?raw=true"/>
   </channel>
 
   <programme channel="Jaguars.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -184,7 +184,7 @@
   
   <channel id="Chiefs.com">
     <display-name lang="en">Kansas City Chiefs</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Chiefs.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Chiefs.png?raw=true"/>
   </channel>
 
   <programme channel="Chiefs.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -208,7 +208,7 @@
   
   <channel id="Chargers.com">
     <display-name lang="en">Los Angeles Chargers</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Chargers.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Chargers.png?raw=true"/>
   </channel>
 
   <programme channel="Chargers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
