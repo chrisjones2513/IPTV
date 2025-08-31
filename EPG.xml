@@ -196,7 +196,7 @@
   
   <channel id="Raiders.com">
     <display-name lang="en">Las Vegas Raiders</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Raiders.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Raiders.png?raw=true"/>
   </channel>
 
   <programme channel="Raiders.com" start="20250830190000 +0000" stop="20270830200000 +0000">
