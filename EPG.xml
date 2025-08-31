@@ -388,43 +388,43 @@
   
   <channel id="Sports.com">
     <display-name lang="en">Sports</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ Divider.png?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
 
   <programme channel="Sports.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Sports Channels</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ Sports.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Sports.jpeg?raw=true"/>
   </programme>  
 
 // Entertainment
   
   <channel id="Entertainment.com">
     <display-name lang="en">Entertainment</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ Divider.png?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
 
   <programme channel="Entertainment.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Entertainment Channels</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ Entertainment.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Entertainment.jpeg?raw=true"/>
   </programme>  
 
 // News
   
   <channel id="News.com">
     <display-name lang="en">News</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ Divider.png?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
 
   <programme channel="News.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">News Channels</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ News.jpeg?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/News.jpeg?raw=true"/>
   </programme>  
 
 // Kids
   
   <channel id="Kids.com">
     <display-name lang="en">Kids</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ Divider.png?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
 
   <programme channel="Kids.com" start="20250830190000 +0000" stop="20270830200000 +0000">
@@ -436,7 +436,7 @@
   
   <channel id="Movies.com">
     <display-name lang="en">Movies</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/ Divider.png?raw=true"/>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
 
   <programme channel="Movies.com" start="20250830190000 +0000" stop="20270830200000 +0000">
