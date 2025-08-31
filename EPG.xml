@@ -1,28 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="Example EPG Generator" generator-info-url="http://example.com">
 
+ // Arizona Cardinals
+  
   <channel id="Cardinals.com">
     <display-name lang="en">Arizona Cardinals</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cardinals.jpeg?raw=true"/>
   </channel>
 
+    <programme channel="Cardinals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
+    <title lang="en">Local channels for watching NFL games</title>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.jpeg?raw=true"/>
+  </programme>
+
+ // Atlanta Falcons 
+  
   <channel id="Falcons.com">
     <display-name lang="en">Atlanta Falcons</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Falcons.jpeg?raw=true"/>
   </channel>
 
-  <programme channel="Cardinals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
-    <title lang="en">Local Channels</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Falcons.jpeg?raw=true"/>
+  <programme channel="Falcons.com" start="20250830190000 +0000" stop="20270830200000 +0000">
+    <title lang="en">Local channels for watching NFL games</title>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.jpeg?raw=true"/>
   </programme>
 
-   <programme channel="Falcons.com" start="20250830190000 +0000" stop="20270830200000 +0000">
-    <title lang="en">Local Channels</title>
-    <desc lang="en"></desc>
-    <category lang="en">Sports</category>
-    <rating system="MPAA">
-      <value>PG</value>
-    </rating>
+ // Baltimore Ravens
+  
+  <channel id="Ravens.com">
+    <display-name lang="en">Baltimore Ravens</display-name>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Ravens.jpeg?raw=true"/>
+  </channel>
+
+  <programme channel="Ravens.com" start="20250830190000 +0000" stop="20270830200000 +0000">
+    <title lang="en">Local channels for watching NFL games</title>
+    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.jpeg?raw=true"/>
   </programme>
+
+  
 
 </tv>
