@@ -2,12 +2,4 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv date="20220401000000 +0000" source-info-name="example" source-info-url="example.com" source-data-url="example.com/a" generator-info-name="Example Generator"
   generator-info-url="https://example.com">
-  <channel id="Cardinals.com">
-    <display-name lang="en">Arizona Cardinals</display-name>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cardinals.png?raw=true"/>
-  </channel>
-    <programme channel="Cardinals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
-    <title lang="en">Local channels for watching NFL games</title>
-    <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
-  </programme>
 </tv>
