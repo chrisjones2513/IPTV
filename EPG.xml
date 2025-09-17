@@ -1,448 +1,336 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-
  // Arizona Cardinals
-  
   <channel id="Cardinals.com">
     <display-name lang="en">Arizona Cardinals</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cardinals.png?raw=true"/>
   </channel>
-
     <programme channel="Cardinals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>
-
  // Atlanta Falcons 
-  
   <channel id="Falcons.com">
     <display-name lang="en">Atlanta Falcons</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Falcons.png?raw=true"/>
   </channel>
-
   <programme channel="Falcons.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>
-
  // Baltimore Ravens
-  
   <channel id="Ravens.com">
     <display-name lang="en">Baltimore Ravens</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Ravens.png?raw=true"/>
   </channel>
-
   <programme channel="Ravens.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>
-
  // Buffalo Bills
-  
   <channel id="Bills.com">
     <display-name lang="en">Buffalo Bills</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bills.png?raw=true"/>
   </channel>
-
   <programme channel="Bills.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
- // Carolina Panthers
-  
+ // Carolina Panthers 
   <channel id="Panthers.com">
     <display-name lang="en">Carolina Panthers</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Panthers.png?raw=true"/>
   </channel>
-
   <programme channel="Panthers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
- // Chicago Bears
-  
+ // Chicago Bears  
   <channel id="Bears.com">
     <display-name lang="en">Chicago Bears</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bears.png?raw=true"/>
   </channel>
-
   <programme channel="Bears.com" start="20250830190000 +0000" stop="20270830200000 +0000">
-    <title lang="en">Local channels for watching NFL games</title>
+    <title lang="en">Local channels for watching NFL games</title
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
  // Cincinnati Bengals
-  
   <channel id="Bengals.com">
     <display-name lang="en">Cincinnati Bengals</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Bengals.png?raw=true"/>
   </channel>
-
   <programme channel="Bengals.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
- // Cleveland Browns
-  
+ // Cleveland Browns  
   <channel id="Browns.com">
     <display-name lang="en">Cleveland Browns</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Browns.png?raw=true"/>
   </channel>
-
   <programme channel="Browns.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
- // Dallas Cowboys
-  
+ // Dallas Cowboys  
   <channel id="Cowboys.com">
     <display-name lang="en">Dallas Cowboys</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Cowboys.png?raw=true"/>
   </channel>
-
   <programme channel="Cowboys.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-// Broncos
-  
+// Broncos  
   <channel id="Broncos.com">
     <display-name lang="en">Denver Broncos</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Broncos.png?raw=true"/>
   </channel>
-
   <programme channel="Broncos.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Lions
-  
+// Lions  
   <channel id="Lions.com">
     <display-name lang="en">Detroit Lions</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Lions.png?raw=true"/>
   </channel>
-
   <programme channel="Lions.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Packers
-  
+// Packers  
   <channel id="Packers.com">
     <display-name lang="en">Green Bay Packers</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Packers.png?raw=true"/>
   </channel>
-
   <programme channel="Packers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Texans
-  
   <channel id="Texans.com">
     <display-name lang="en">Houston Texans</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Texans.png?raw=true"/>
   </channel>
-
   <programme channel="Texans.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Colts
-  
+// Colts 
   <channel id="Colts.com">
     <display-name lang="en">Indianapolis Colts</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Colts.png?raw=true"/>
   </channel>
-
   <programme channel="Colts.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Jaguars
-  
+// Jaguars  
   <channel id="Jaguars.com">
     <display-name lang="en">Jacksonville Jaguars</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Jaguars.png?raw=true"/>
   </channel>
-
   <programme channel="Jaguars.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Chiefs
-  
+// Chiefs  
   <channel id="Chiefs.com">
     <display-name lang="en">Kansas City Chiefs</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Chiefs.png?raw=true"/>
   </channel>
-
   <programme channel="Chiefs.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Raiders
-  
+// Raiders  
   <channel id="Raiders.com">
     <display-name lang="en">Las Vegas Raiders</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Raiders.png?raw=true"/>
   </channel>
-
   <programme channel="Raiders.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Chargers
-  
+// Chargers  
   <channel id="Chargers.com">
     <display-name lang="en">Los Angeles Chargers</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Chargers.png?raw=true"/>
   </channel>
-
   <programme channel="Chargers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Rams
-  
   <channel id="Rams.com">
     <display-name lang="en">Los Angeles Rams</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Rams.png?raw=true"/>
   </channel>
-
   <programme channel="Rams.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Dolphins
-  
+// Dolphins 
   <channel id="Dolphins.com">
     <display-name lang="en">Miami Dolphins</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Dolphins.png?raw=true"/>
   </channel>
-
   <programme channel="Dolphins.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Vikings
-  
+// Vikings  
   <channel id="Vikings.com">
     <display-name lang="en">Minnesota Vikings</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Vikings.png?raw=true"/>
   </channel>
-
   <programme channel="Vikings.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Patriots
-  
+// Patriots 
   <channel id="Patriots.com">
     <display-name lang="en">New England Patriots</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Patriots.png?raw=true"/>
   </channel>
-
   <programme channel="Patriots.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Saints
-  
+// Saints  
   <channel id="Saints.com">
     <display-name lang="en">New Orleans Saints</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Saints.png?raw=true"/>
   </channel>
-
   <programme channel="Saints.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Giants
-  
   <channel id="Giants.com">
     <display-name lang="en">New York Giants</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Giants.png?raw=true"/>
   </channel>
-
   <programme channel="Giants.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Jets
-  
   <channel id="Jets.com">
     <display-name lang="en">New York Jets</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Jets.png?raw=true"/>
   </channel>
-
   <programme channel="Jets.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Eagles
-  
   <channel id="Eagles.com">
     <display-name lang="en">Philadelphia Eagles</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Eagles.png?raw=true"/>
   </channel>
-
   <programme channel="Eagles.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Steelers
-  
   <channel id="Steelers.com">
     <display-name lang="en">Pittsburgh Steelers</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Steelers.png?raw=true"/>
   </channel>
-
   <programme channel="Steelers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// 49ers
-  
+// 49ers  
   <channel id="49ers.com">
     <display-name lang="en">San Francisco 49ers</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/49ers.png?raw=true"/>
   </channel>
-
   <programme channel="49ers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Seahawks
-  
   <channel id="Seahawks.com">
     <display-name lang="en">Seattle Seahawks</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Seahawks.png?raw=true"/>
   </channel>
-
   <programme channel="Seahawks.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Buccaneers
-  
+// Buccaneers 
   <channel id="Buccaneers.com">
     <display-name lang="en">Tampa Bay Buccaneers</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Buccaneers.png?raw=true"/>
   </channel>
-
   <programme channel="Buccaneers.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
 // Titans
-  
   <channel id="Titans.com">
     <display-name lang="en">Tennessee Titans</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Titans.png?raw=true"/>
   </channel>
-
   <programme channel="Titans.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Commanders
-  
+// Commanders 
   <channel id="Commanders.com">
     <display-name lang="en">Washington Commanders</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Commanders.png?raw=true"/>
   </channel>
-
   <programme channel="Commanders.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Local channels for watching NFL games</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/NFL/Football.png?raw=true"/>
   </programme>  
-
-// Sports
-  
+// Sports 
   <channel id="Sports.com">
     <display-name lang="en">Sports</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
-
   <programme channel="Sports.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Sports Channels</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Sports.jpeg?raw=true"/>
   </programme>  
-
-// Entertainment
-  
+// Entertainment 
   <channel id="Entertainment.com">
     <display-name lang="en">Entertainment</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
-
   <programme channel="Entertainment.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Entertainment Channels</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Entertainment.jpeg?raw=true"/>
   </programme>  
-
 // News
-  
   <channel id="News.com">
     <display-name lang="en">News</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
-
   <programme channel="News.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">News Channels</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/News.jpeg?raw=true"/>
   </programme>  
-
-// Kids
-  
+// Kids 
   <channel id="Kids.com">
     <display-name lang="en">Kids</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
-
   <programme channel="Kids.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Kids Channels</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Kids.jpeg?raw=true"/>
   </programme>  
-
-// Movies
-  
+// Movies  
   <channel id="Movies.com">
     <display-name lang="en">Movies</display-name>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Divider.png?raw=true"/>
   </channel>
-
   <programme channel="Movies.com" start="20250830190000 +0000" stop="20270830200000 +0000">
     <title lang="en">Movies Channels</title>
     <icon src="https://github.com/chrisjones2513/IPTV/blob/main/Logos/Categories/Movies.jpeg?raw=true"/>
   </programme>  
-
-
 </tv>
